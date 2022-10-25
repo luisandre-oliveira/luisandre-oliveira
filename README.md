@@ -11,12 +11,12 @@
   ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=blue)  
   ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Code-PYTHON-informational?style=flat&logo=python&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 <div> 
 </a>
   <a href="https://instagram.com/luisandre_oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
