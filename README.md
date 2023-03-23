@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/luisandre-oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisandre-oliveira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisandre-oliveira&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisandre-oliveira&layout=compact&theme=vision-friendly-dark&include_all_commits=true"/>
 </div>
 
 ## 🧰 Technologies & Tools
