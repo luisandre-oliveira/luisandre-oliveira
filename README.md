@@ -7,6 +7,7 @@
 
 ## 🧰 Technologies & Tools
   ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=blue)  
