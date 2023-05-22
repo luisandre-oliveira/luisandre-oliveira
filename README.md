@@ -1,8 +1,11 @@
 ### Hi 👋, I'm Luís André Santos Oliveira
 <div align="center">
   <a href="https://github.com/luisandre-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisandre-oliveira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisandre-oliveira&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisandre-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/luisandre-oliveira">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisandre-oliveira&theme=dark" />
+  </a>
 </div>
 
 ## 🧰 Technologies & Tools
